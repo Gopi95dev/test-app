@@ -10,4 +10,4 @@ jobs:
       run: |
         echo This demo file shows a 
         echo very basic and easy-to-understand workflow.
-        curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World! from github"}' https://hooks.slack.com/services/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
+        curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World! from gith ub"}' https://hooks.slack.com/services/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
